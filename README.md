@@ -3,7 +3,7 @@ Projeto para comunicação via TCP e FTP
 
 # FTP Client
 Console Application utilizado para execuar ações via FTP
-Métodos:
+**Métodos:
  - Download
  - Upload
  - Delete
