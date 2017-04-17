@@ -1,0 +1,854 @@
+13/04/2017 14:22:17.753  - Info - Iniciando Log
+13/04/2017 14:22:17.758  - Info - Servidor FTP rodando na porta 11000...
+13/04/2017 14:22:17.780  - Info - Endpoint local é :192.168.1.44:11000
+13/04/2017 14:22:17.784  - Info - Aguardando uma conexão.....
+13/04/2017 14:22:18.128  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:18.197  - Info - Recebendo...
+13/04/2017 14:22:18.200  - Info - Mensagem recebida: 13-22-2017 14:22:18 1969 - 997961c4-4b9f-40fa-ac37-0cacb9009ffe
+13/04/2017 14:22:18.205  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:18.970  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:20.207  - Info - Recebendo...
+13/04/2017 14:22:20.211  - Info - Mensagem recebida: 13-22-2017 14:22:20 2071 - 4980ba44-0173-4ffb-ada4-1cd47e7730d4
+13/04/2017 14:22:20.272  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:20.276  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:22.273  - Info - Recebendo...
+13/04/2017 14:22:22.285  - Info - Mensagem recebida: 13-22-2017 14:22:22 2732 - 33c18f16-3f87-4afd-8f88-692d329ce7cd
+13/04/2017 14:22:22.297  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:22.310  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:24.298  - Info - Recebendo...
+13/04/2017 14:22:24.304  - Info - Mensagem recebida: 13-22-2017 14:22:24 2984 - 69e6d0cb-eefb-4b05-831c-26f6ac00f58f
+13/04/2017 14:22:24.310  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:24.315  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:26.311  - Info - Recebendo...
+13/04/2017 14:22:26.316  - Info - Mensagem recebida: 13-22-2017 14:22:26 3113 - 6161d6f1-a0a5-45ad-a798-c56c699a2d6c
+13/04/2017 14:22:26.323  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:26.329  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:28.324  - Info - Recebendo...
+13/04/2017 14:22:28.328  - Info - Mensagem recebida: 13-22-2017 14:22:28 3246 - 7b7eeb37-2d3f-439c-a920-24a79e58beed
+13/04/2017 14:22:28.334  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:28.338  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:30.335  - Info - Recebendo...
+13/04/2017 14:22:30.341  - Info - Mensagem recebida: 13-22-2017 14:22:30 3355 - 60e379ec-2812-41da-89cd-8362f2962ae7
+13/04/2017 14:22:30.347  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:30.353  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:32.348  - Info - Recebendo...
+13/04/2017 14:22:32.354  - Info - Mensagem recebida: 13-22-2017 14:22:32 3487 - 79022662-8957-46a6-8555-797bf3823cdc
+13/04/2017 14:22:32.364  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:32.371  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:34.366  - Info - Recebendo...
+13/04/2017 14:22:34.373  - Info - Mensagem recebida: 13-22-2017 14:22:34 3662 - ddc9386b-51ba-4ef8-858a-7312c8f07ee4
+13/04/2017 14:22:34.384  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:34.391  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:36.385  - Info - Recebendo...
+13/04/2017 14:22:36.408  - Info - Mensagem recebida: 13-22-2017 14:22:36 3851 - 5dd3ee5e-1cb8-4a60-9821-89709939650e
+13/04/2017 14:22:36.422  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:36.434  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:38.424  - Info - Recebendo...
+13/04/2017 14:22:38.451  - Info - Mensagem recebida: 13-22-2017 14:22:38 4242 - 011658af-4919-455b-b727-aef99e343df7
+13/04/2017 14:22:38.461  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:38.467  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:40.463  - Info - Recebendo...
+13/04/2017 14:22:40.475  - Info - Mensagem recebida: 13-22-2017 14:22:40 4638 - 9a45cdfe-4ec9-47d9-a25d-17f3bc1a22ee
+13/04/2017 14:22:40.486  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:40.496  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:42.489  - Info - Recebendo...
+13/04/2017 14:22:42.494  - Info - Mensagem recebida: 13-22-2017 14:22:42 4890 - f71c9e68-94fe-4df8-9d4b-b0fab61dd3de
+13/04/2017 14:22:42.498  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:42.533  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:44.499  - Info - Recebendo...
+13/04/2017 14:22:44.506  - Info - Mensagem recebida: 13-22-2017 14:22:44 4993 - e531be86-a52a-495c-9708-83dae1fd8557
+13/04/2017 14:22:44.511  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:44.520  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:46.512  - Info - Recebendo...
+13/04/2017 14:22:46.523  - Info - Mensagem recebida: 13-22-2017 14:22:46 5122 - 36fb5800-347d-4b33-9e22-0514a64de1f9
+13/04/2017 14:22:46.537  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:46.542  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:48.539  - Info - Recebendo...
+13/04/2017 14:22:48.564  - Info - Mensagem recebida: 13-22-2017 14:22:48 5395 - ed7c59bc-99a0-41a6-b40b-6685af64913a
+13/04/2017 14:22:48.570  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:48.577  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:50.572  - Info - Recebendo...
+13/04/2017 14:22:50.584  - Info - Mensagem recebida: 13-22-2017 14:22:50 5717 - 4b8fe1e2-e127-463c-aacc-60b7144fa37a
+13/04/2017 14:22:50.592  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:50.601  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:52.594  - Info - Recebendo...
+13/04/2017 14:22:52.606  - Info - Mensagem recebida: 13-22-2017 14:22:52 5944 - f3942cca-b002-4373-b83d-d6c474b93d0a
+13/04/2017 14:22:52.617  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:52.624  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:54.618  - Info - Recebendo...
+13/04/2017 14:22:54.624  - Info - Mensagem recebida: 13-22-2017 14:22:54 6187 - b1a5d679-dc0b-42ac-b774-62e304a20bbe
+13/04/2017 14:22:54.628  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:54.633  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:56.630  - Info - Recebendo...
+13/04/2017 14:22:56.635  - Info - Mensagem recebida: 13-22-2017 14:22:56 6303 - 788d4866-5de8-482b-827f-4c613902ba06
+13/04/2017 14:22:56.639  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:56.644  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:22:58.641  - Info - Recebendo...
+13/04/2017 14:22:58.648  - Info - Mensagem recebida: 13-22-2017 14:22:58 6411 - 1b07bb8c-4cd9-4878-9fc3-bc13567a496a
+13/04/2017 14:22:58.654  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:22:58.662  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:00.655  - Info - Recebendo...
+13/04/2017 14:23:00.660  - Info - Mensagem recebida: 13-23-2017 14:23:00 6553 - 114c9597-29e5-47d7-8fee-faee0cf7f3f5
+13/04/2017 14:23:00.665  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:00.669  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:02.666  - Info - Recebendo...
+13/04/2017 14:23:02.679  - Info - Mensagem recebida: 13-23-2017 14:23:02 6669 - 20afc49f-38e1-498b-b808-5bad9c22d708
+13/04/2017 14:23:02.691  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:02.700  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:04.693  - Info - Recebendo...
+13/04/2017 14:23:04.704  - Info - Mensagem recebida: 13-23-2017 14:23:04 6934 - 311b193f-48d9-45be-8b0e-0aa8c0ab065d
+13/04/2017 14:23:04.716  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:04.731  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:06.718  - Info - Recebendo...
+13/04/2017 14:23:06.723  - Info - Mensagem recebida: 13-23-2017 14:23:06 7182 - 851f67cd-0be9-4178-bb8f-1b47b227ca5d
+13/04/2017 14:23:06.727  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:06.732  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:08.729  - Info - Recebendo...
+13/04/2017 14:23:08.735  - Info - Mensagem recebida: 13-23-2017 14:23:08 7290 - 7eec9276-d5e3-43ef-8a81-60b6db19373d
+13/04/2017 14:23:08.736  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:08.741  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:10.736  - Info - Recebendo...
+13/04/2017 14:23:10.743  - Info - Mensagem recebida: 13-23-2017 14:23:10 7364 - 4361cd57-3981-4341-9985-6dc0f45b8df1
+13/04/2017 14:23:10.749  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:10.756  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:12.751  - Info - Recebendo...
+13/04/2017 14:23:12.764  - Info - Mensagem recebida: 13-23-2017 14:23:12 7508 - de1c385f-3f4a-45e8-a7c7-40ff4af381cd
+13/04/2017 14:23:12.777  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:12.791  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:14.778  - Info - Recebendo...
+13/04/2017 14:23:14.792  - Info - Mensagem recebida: 13-23-2017 14:23:14 7782 - 620464c4-48fa-444d-aff3-f5f8d47c9006
+13/04/2017 14:23:14.806  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:14.808  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:16.811  - Info - Recebendo...
+13/04/2017 14:23:16.820  - Info - Mensagem recebida: 13-23-2017 14:23:16 8111 - d5b2c892-4b89-4af8-a068-b86f81c32939
+13/04/2017 14:23:16.828  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:16.838  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:18.830  - Info - Recebendo...
+13/04/2017 14:23:18.838  - Info - Mensagem recebida: 13-23-2017 14:23:18 8305 - f804840e-58bc-4a2b-965d-47734daa94a3
+13/04/2017 14:23:18.846  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:18.854  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:20.847  - Info - Recebendo...
+13/04/2017 14:23:20.855  - Info - Mensagem recebida: 13-23-2017 14:23:20 8472 - 864d9ae4-51eb-4073-bea8-563e7d2d920a
+13/04/2017 14:23:20.862  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:20.870  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:22.863  - Info - Recebendo...
+13/04/2017 14:23:22.876  - Info - Mensagem recebida: 13-23-2017 14:23:22 8630 - bf79ca20-e654-4777-863b-6be6f2cf1f1a
+13/04/2017 14:23:22.888  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:22.888  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:24.891  - Info - Recebendo...
+13/04/2017 14:23:24.904  - Info - Mensagem recebida: 13-23-2017 14:23:24 8906 - 3278638c-abab-4304-a487-49f67ac293f5
+13/04/2017 14:23:24.917  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:24.929  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:26.919  - Info - Recebendo...
+13/04/2017 14:23:26.925  - Info - Mensagem recebida: 13-23-2017 14:23:26 9196 - 737c9148-9640-4dfd-888c-3908c921ee17
+13/04/2017 14:23:26.929  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:26.934  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:28.932  - Info - Recebendo...
+13/04/2017 14:23:28.948  - Info - Mensagem recebida: 13-23-2017 14:23:28 9322 - a44b8101-f7cf-467e-9e5f-06763c047479
+13/04/2017 14:23:28.962  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:28.975  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:30.963  - Info - Recebendo...
+13/04/2017 14:23:30.976  - Info - Mensagem recebida: 13-23-2017 14:23:30 9637 - 65d1fddc-0fd7-4cdb-b6d9-dd96bdb905ef
+13/04/2017 14:23:30.987  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:30.996  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:32.989  - Info - Recebendo...
+13/04/2017 14:23:33.003  - Info - Mensagem recebida: 13-23-2017 14:23:32 9899 - b0e12cba-1fd0-4a35-a4ce-af59f597815a
+13/04/2017 14:23:33.016  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:33.027  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:35.020  - Info - Recebendo...
+13/04/2017 14:23:35.028  - Info - Mensagem recebida: 13-23-2017 14:23:35 0204 - af4bda89-7185-4368-84fe-526f8b36480d
+13/04/2017 14:23:35.034  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:35.042  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:37.036  - Info - Recebendo...
+13/04/2017 14:23:37.041  - Info - Mensagem recebida: 13-23-2017 14:23:37 0368 - 15bef52c-103d-4998-a779-e5e91d98cdf7
+13/04/2017 14:23:37.045  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:37.051  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:39.047  - Info - Recebendo...
+13/04/2017 14:23:39.058  - Info - Mensagem recebida: 13-23-2017 14:23:39 0475 - ed83d70f-5d02-427f-aea3-c5602e64c9db
+13/04/2017 14:23:39.066  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:39.073  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:41.068  - Info - Recebendo...
+13/04/2017 14:23:41.081  - Info - Mensagem recebida: 13-23-2017 14:23:41 0681 - 6f3c81cc-8423-4445-b677-273f30e4b59c
+13/04/2017 14:23:41.093  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:41.107  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:43.095  - Info - Recebendo...
+13/04/2017 14:23:43.108  - Info - Mensagem recebida: 13-23-2017 14:23:43 0952 - 2639bbee-ee57-4761-9a50-6dd7fa1315c3
+13/04/2017 14:23:43.120  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:51.803  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:51.817  - Info - Recebendo...
+13/04/2017 14:23:51.829  - Info - Mensagem recebida: 13-23-2017 14:23:51 7791 - 83d560eb-6642-4578-abd7-9f7e8991f6ca
+13/04/2017 14:23:51.839  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:51.845  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:53.841  - Info - Recebendo...
+13/04/2017 14:23:53.847  - Info - Mensagem recebida: 13-23-2017 14:23:53 8415 - 825d2933-fb29-45bd-82ff-491954e3d39f
+13/04/2017 14:23:53.852  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:53.858  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:55.854  - Info - Recebendo...
+13/04/2017 14:23:55.866  - Info - Mensagem recebida: 13-23-2017 14:23:55 8548 - ed977d33-f6e9-4df1-aada-32c63448e8d4
+13/04/2017 14:23:55.878  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:55.889  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:57.881  - Info - Recebendo...
+13/04/2017 14:23:57.893  - Info - Mensagem recebida: 13-23-2017 14:23:57 8810 - 679213b1-0301-4617-839b-08426205926e
+13/04/2017 14:23:57.905  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:57.920  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:23:59.907  - Info - Recebendo...
+13/04/2017 14:23:59.912  - Info - Mensagem recebida: 13-23-2017 14:23:59 9073 - ff2a8e8d-51f1-4e56-b369-f38534cdb1c5
+13/04/2017 14:23:59.916  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:23:59.921  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:01.918  - Info - Recebendo...
+13/04/2017 14:24:01.927  - Info - Mensagem recebida: 13-24-2017 14:24:01 9185 - fa1b649e-7790-4525-a208-fd1f766287cd
+13/04/2017 14:24:01.932  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:01.939  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:03.934  - Info - Recebendo...
+13/04/2017 14:24:03.947  - Info - Mensagem recebida: 13-24-2017 14:24:03 9348 - 0ae151c3-2289-4916-a498-6d39b986e753
+13/04/2017 14:24:03.960  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:03.971  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:05.967  - Info - Recebendo...
+13/04/2017 14:24:05.973  - Info - Mensagem recebida: 13-24-2017 14:24:05 9671 - 56427493-8ddf-42c1-8adf-518708569bf7
+13/04/2017 14:24:05.979  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:05.985  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:07.981  - Info - Recebendo...
+13/04/2017 14:24:07.987  - Info - Mensagem recebida: 13-24-2017 14:24:07 9814 - 202d46b8-e67f-40a5-8361-c037b3b5f0b1
+13/04/2017 14:24:07.992  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:07.998  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:09.995  - Info - Recebendo...
+13/04/2017 14:24:10.003  - Info - Mensagem recebida: 13-24-2017 14:24:09 9947 - d204ac88-05d1-46ac-acfc-b2e35005d6b0
+13/04/2017 14:24:10.009  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:10.018  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:12.014  - Info - Recebendo...
+13/04/2017 14:24:12.021  - Info - Mensagem recebida: 13-24-2017 14:24:12 0137 - 464bc1f2-29d1-46bb-9b7f-d0798f5841d5
+13/04/2017 14:24:12.026  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:12.035  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:14.027  - Info - Recebendo...
+13/04/2017 14:24:14.036  - Info - Mensagem recebida: 13-24-2017 14:24:14 0275 - ec2e9e03-df64-43ca-b3fe-88536dcefd52
+13/04/2017 14:24:14.042  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:14.049  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:16.044  - Info - Recebendo...
+13/04/2017 14:24:16.051  - Info - Mensagem recebida: 13-24-2017 14:24:16 0448 - b90424ac-ec50-4f1a-b838-f43abd33b228
+13/04/2017 14:24:16.057  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:16.063  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:18.059  - Info - Recebendo...
+13/04/2017 14:24:18.065  - Info - Mensagem recebida: 13-24-2017 14:24:18 0596 - 89e7f289-4b2f-40f8-9860-de810347efcc
+13/04/2017 14:24:18.076  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:18.083  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:20.080  - Info - Recebendo...
+13/04/2017 14:24:20.097  - Info - Mensagem recebida: 13-24-2017 14:24:20 0779 - 4a52d52b-cee1-4f4d-802c-c56c59f2d3ee
+13/04/2017 14:24:20.108  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:20.128  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:22.114  - Info - Recebendo...
+13/04/2017 14:24:22.123  - Info - Mensagem recebida: 13-24-2017 14:24:22 1147 - ba6487a9-50ed-4c7a-af50-cae1c24c087a
+13/04/2017 14:24:22.128  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:22.142  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:24.131  - Info - Recebendo...
+13/04/2017 14:24:24.137  - Info - Mensagem recebida: 13-24-2017 14:24:24 1319 - 062ab323-cf1a-4f8a-af55-777381f6a8c5
+13/04/2017 14:24:24.144  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:24.153  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:26.148  - Info - Recebendo...
+13/04/2017 14:24:26.157  - Info - Mensagem recebida: 13-24-2017 14:24:26 1484 - eb14c33b-8af7-475d-bbbd-062af8080377
+13/04/2017 14:24:26.164  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:26.176  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:28.167  - Info - Recebendo...
+13/04/2017 14:24:28.176  - Info - Mensagem recebida: 13-24-2017 14:24:28 1672 - 20b0dcd0-1738-4c05-8712-1c2245b423a6
+13/04/2017 14:24:28.182  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:28.192  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:30.185  - Info - Recebendo...
+13/04/2017 14:24:30.212  - Info - Mensagem recebida: 13-24-2017 14:24:30 1838 - 4555cfe4-16f8-430f-9064-7b55b738178c
+13/04/2017 14:24:30.226  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:30.236  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:32.229  - Info - Recebendo...
+13/04/2017 14:24:32.235  - Info - Mensagem recebida: 13-24-2017 14:24:32 2298 - fba8e7fc-dd25-4e69-8e8e-5530677c38ff
+13/04/2017 14:24:32.239  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:32.245  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:34.242  - Info - Recebendo...
+13/04/2017 14:24:34.248  - Info - Mensagem recebida: 13-24-2017 14:24:34 2423 - 8f589f11-5f25-4bd5-ae36-460b3487b18f
+13/04/2017 14:24:34.253  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:34.257  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:36.257  - Info - Recebendo...
+13/04/2017 14:24:36.274  - Info - Mensagem recebida: 13-24-2017 14:24:36 2546 - 36fb8c68-5cf2-488f-9115-0b39f65fcc5f
+13/04/2017 14:24:36.292  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:36.305  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:38.297  - Info - Recebendo...
+13/04/2017 14:24:38.302  - Info - Mensagem recebida: 13-24-2017 14:24:38 2979 - 18a1f89c-07c7-4cff-a2f8-2b2ccf865b0d
+13/04/2017 14:24:38.308  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:38.314  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:40.310  - Info - Recebendo...
+13/04/2017 14:24:40.319  - Info - Mensagem recebida: 13-24-2017 14:24:40 3106 - 9627ec33-027d-433f-bda7-b235713072c5
+13/04/2017 14:24:40.329  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:40.339  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:42.333  - Info - Recebendo...
+13/04/2017 14:24:42.339  - Info - Mensagem recebida: 13-24-2017 14:24:42 3339 - c1353400-b585-47c0-8e13-a9e69e88883f
+13/04/2017 14:24:42.345  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:42.355  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:44.349  - Info - Recebendo...
+13/04/2017 14:24:44.355  - Info - Mensagem recebida: 13-24-2017 14:24:44 3492 - 7b99b4a2-5ad1-4b5e-9839-e39f1a1e2c9e
+13/04/2017 14:24:44.362  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:44.369  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:46.365  - Info - Recebendo...
+13/04/2017 14:24:46.377  - Info - Mensagem recebida: 13-24-2017 14:24:46 3645 - edf05491-145f-42c3-9357-dc3f181f0b5f
+13/04/2017 14:24:46.389  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:46.398  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:48.390  - Info - Recebendo...
+13/04/2017 14:24:48.397  - Info - Mensagem recebida: 13-24-2017 14:24:48 3908 - f547bede-4ff5-429b-a99c-22a150142ea6
+13/04/2017 14:24:48.401  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:48.407  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:50.402  - Info - Recebendo...
+13/04/2017 14:24:50.408  - Info - Mensagem recebida: 13-24-2017 14:24:50 4027 - e38c4238-6675-4fb5-a148-c8e21650e7b7
+13/04/2017 14:24:50.413  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:50.418  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:52.415  - Info - Recebendo...
+13/04/2017 14:24:52.429  - Info - Mensagem recebida: 13-24-2017 14:24:52 4150 - 2e944fb9-9808-4081-a65f-8fe1ebb95e18
+13/04/2017 14:24:52.441  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:52.462  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:54.442  - Info - Recebendo...
+13/04/2017 14:24:54.448  - Info - Mensagem recebida: 13-24-2017 14:24:54 4423 - 1c99150a-3a3d-4d00-a64c-902eea5eab49
+13/04/2017 14:24:54.452  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:54.460  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:56.453  - Info - Recebendo...
+13/04/2017 14:24:56.459  - Info - Mensagem recebida: 13-24-2017 14:24:56 4537 - 0cc196eb-0d9c-45f1-8aa3-690f6987346c
+13/04/2017 14:24:56.465  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:56.471  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:24:58.466  - Info - Recebendo...
+13/04/2017 14:24:58.473  - Info - Mensagem recebida: 13-24-2017 14:24:58 4669 - de643499-c1b6-4b05-a577-44aba74caa50
+13/04/2017 14:24:58.480  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:24:58.488  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:00.482  - Info - Recebendo...
+13/04/2017 14:25:00.489  - Info - Mensagem recebida: 13-25-2017 14:25:00 4821 - b8421dbc-a21f-477c-8b7a-10a3e3e6a085
+13/04/2017 14:25:00.498  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:00.509  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:02.500  - Info - Recebendo...
+13/04/2017 14:25:02.507  - Info - Mensagem recebida: 13-25-2017 14:25:02 5004 - a98728e3-bcef-458a-a403-93c4e315f25b
+13/04/2017 14:25:02.514  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:02.520  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:04.516  - Info - Recebendo...
+13/04/2017 14:25:04.523  - Info - Mensagem recebida: 13-25-2017 14:25:04 5167 - bc8cf167-a14e-47cf-b60b-223476ba1401
+13/04/2017 14:25:04.528  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:04.535  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:06.530  - Info - Recebendo...
+13/04/2017 14:25:06.542  - Info - Mensagem recebida: 13-25-2017 14:25:06 5300 - b3577397-9e6c-4581-8352-89ec99b090c0
+13/04/2017 14:25:06.551  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:06.558  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:08.553  - Info - Recebendo...
+13/04/2017 14:25:08.558  - Info - Mensagem recebida: 13-25-2017 14:25:08 5533 - 135e7b20-fa2a-44af-8a4b-4b77639cfa67
+13/04/2017 14:25:08.564  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:08.564  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:10.570  - Info - Recebendo...
+13/04/2017 14:25:10.577  - Info - Mensagem recebida: 13-25-2017 14:25:10 5706 - 6a818bf1-7982-4929-87f9-237753e73187
+13/04/2017 14:25:10.583  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:10.592  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:12.586  - Info - Recebendo...
+13/04/2017 14:25:12.596  - Info - Mensagem recebida: 13-25-2017 14:25:12 5867 - c51061bd-fc56-4adc-a27c-20d5c31bf4ed
+13/04/2017 14:25:12.614  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:12.635  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:14.625  - Info - Recebendo...
+13/04/2017 14:25:14.631  - Info - Mensagem recebida: 13-25-2017 14:25:14 6259 - 83ce64e6-8b5f-4817-a268-32ee74ce2159
+13/04/2017 14:25:14.637  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:14.648  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:16.640  - Info - Recebendo...
+13/04/2017 14:25:16.648  - Info - Mensagem recebida: 13-25-2017 14:25:16 6402 - c92b703a-5946-461a-ae0d-498bc8358808
+13/04/2017 14:25:16.659  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:16.670  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:18.663  - Info - Recebendo...
+13/04/2017 14:25:18.670  - Info - Mensagem recebida: 13-25-2017 14:25:18 6633 - f695642f-1f32-4193-ab0e-b0e6520d3699
+13/04/2017 14:25:18.679  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:18.693  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:20.680  - Info - Recebendo...
+13/04/2017 14:25:20.685  - Info - Mensagem recebida: 13-25-2017 14:25:20 6809 - e1636fce-111f-420f-8799-82d96d93bbb0
+13/04/2017 14:25:20.692  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:20.697  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:22.694  - Info - Recebendo...
+13/04/2017 14:25:22.714  - Info - Mensagem recebida: 13-25-2017 14:25:22 6940 - e793afdd-f477-4938-9557-aa0b295aa6f5
+13/04/2017 14:25:22.721  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:22.731  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:24.724  - Info - Recebendo...
+13/04/2017 14:25:24.730  - Info - Mensagem recebida: 13-25-2017 14:25:24 7243 - f2c536d8-f3c4-4943-adb5-29236e8f54ea
+13/04/2017 14:25:24.737  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:24.756  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:26.746  - Info - Recebendo...
+13/04/2017 14:25:26.751  - Info - Mensagem recebida: 13-25-2017 14:25:26 7468 - dcb602e9-2364-4db9-a577-0abff316aea9
+13/04/2017 14:25:26.756  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:26.762  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:28.760  - Info - Recebendo...
+13/04/2017 14:25:28.772  - Info - Mensagem recebida: 13-25-2017 14:25:28 7601 - d7395d33-c6ca-4c63-88d0-1ae01f68d8f3
+13/04/2017 14:25:28.781  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:28.789  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:30.784  - Info - Recebendo...
+13/04/2017 14:25:30.800  - Info - Mensagem recebida: 13-25-2017 14:25:30 7844 - 4d3bf457-e076-47fc-a647-88b83504071c
+13/04/2017 14:25:30.805  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:30.814  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:32.807  - Info - Recebendo...
+13/04/2017 14:25:32.815  - Info - Mensagem recebida: 13-25-2017 14:25:32 8077 - e993ab11-f173-4f03-8ff7-5b722620cf60
+13/04/2017 14:25:32.822  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:32.828  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:34.825  - Info - Recebendo...
+13/04/2017 14:25:34.837  - Info - Mensagem recebida: 13-25-2017 14:25:34 8240 - 5ba74962-aaa1-461c-a633-89eaf87cffc0
+13/04/2017 14:25:34.843  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:34.856  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:36.844  - Info - Recebendo...
+13/04/2017 14:25:36.853  - Info - Mensagem recebida: 13-25-2017 14:25:36 8444 - 5202a824-8a80-4ea2-8c2a-3e613dd463e3
+13/04/2017 14:25:36.864  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:36.877  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:38.870  - Info - Recebendo...
+13/04/2017 14:25:38.877  - Info - Mensagem recebida: 13-25-2017 14:25:38 8705 - f0c73976-78f3-4b5a-b093-c7203abb6130
+13/04/2017 14:25:38.884  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:38.895  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:40.887  - Info - Recebendo...
+13/04/2017 14:25:40.892  - Info - Mensagem recebida: 13-25-2017 14:25:40 8877 - 1ab3f104-77e2-48e0-ad21-1b6a8e21dea5
+13/04/2017 14:25:40.897  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:40.902  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:42.900  - Info - Recebendo...
+13/04/2017 14:25:42.910  - Info - Mensagem recebida: 13-25-2017 14:25:42 8993 - ee086463-58ba-4dd9-9be7-98590a8185df
+13/04/2017 14:25:42.917  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:42.928  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:44.919  - Info - Recebendo...
+13/04/2017 14:25:44.925  - Info - Mensagem recebida: 13-25-2017 14:25:44 9197 - 09fd383e-2624-4ef8-bebb-2e8d04a1779c
+13/04/2017 14:25:44.930  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:44.935  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:46.931  - Info - Recebendo...
+13/04/2017 14:25:46.936  - Info - Mensagem recebida: 13-25-2017 14:25:46 9316 - fb580061-baba-45ff-872e-ebb6d9923650
+13/04/2017 14:25:46.941  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:46.947  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:48.944  - Info - Recebendo...
+13/04/2017 14:25:48.950  - Info - Mensagem recebida: 13-25-2017 14:25:48 9449 - 610894e5-31b7-4a0a-bca5-356490071cd9
+13/04/2017 14:25:48.958  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:48.964  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:50.961  - Info - Recebendo...
+13/04/2017 14:25:50.974  - Info - Mensagem recebida: 13-25-2017 14:25:50 9605 - 2bbe5196-b55a-4b7e-b3f6-7653e4d9bcef
+13/04/2017 14:25:50.995  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:51.003  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:52.998  - Info - Recebendo...
+13/04/2017 14:25:53.003  - Info - Mensagem recebida: 13-25-2017 14:25:52 9988 - cff98901-a833-47e4-82e5-c63eb7254508
+13/04/2017 14:25:53.008  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:53.015  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:55.010  - Info - Recebendo...
+13/04/2017 14:25:55.015  - Info - Mensagem recebida: 13-25-2017 14:25:55 0101 - d685f46d-a3a7-4758-a3ae-e537def06a2f
+13/04/2017 14:25:55.020  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:55.027  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:57.022  - Info - Recebendo...
+13/04/2017 14:25:57.029  - Info - Mensagem recebida: 13-25-2017 14:25:57 0227 - abc86713-6ea4-4979-a1f3-6a8b5593ba39
+13/04/2017 14:25:57.037  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:57.052  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:25:59.039  - Info - Recebendo...
+13/04/2017 14:25:59.044  - Info - Mensagem recebida: 13-25-2017 14:25:59 0390 - fdee2d43-081c-4b73-8313-3a6f651d4e3f
+13/04/2017 14:25:59.049  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:25:59.056  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:01.050  - Info - Recebendo...
+13/04/2017 14:26:01.056  - Info - Mensagem recebida: 13-26-2017 14:26:01 0509 - 2f50aeb9-5bb3-4775-a596-32d5004db248
+13/04/2017 14:26:01.061  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:01.069  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:03.064  - Info - Recebendo...
+13/04/2017 14:26:03.070  - Info - Mensagem recebida: 13-26-2017 14:26:03 0648 - fcc5eca2-dca7-4a42-b79b-e451b23e9513
+13/04/2017 14:26:03.076  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:03.080  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:05.078  - Info - Recebendo...
+13/04/2017 14:26:05.084  - Info - Mensagem recebida: 13-26-2017 14:26:05 0780 - acc174ee-ca9f-47f4-90ed-e5139583dc87
+13/04/2017 14:26:05.090  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:05.095  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:07.091  - Info - Recebendo...
+13/04/2017 14:26:07.104  - Info - Mensagem recebida: 13-26-2017 14:26:07 0913 - 255df99f-631f-41f0-bf7c-374c3b3ab77b
+13/04/2017 14:26:07.110  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:07.123  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:09.112  - Info - Recebendo...
+13/04/2017 14:26:09.117  - Info - Mensagem recebida: 13-26-2017 14:26:09 1125 - 1e6f2458-f957-45dc-bd73-ee5776bc6a8c
+13/04/2017 14:26:09.123  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:09.129  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:11.125  - Info - Recebendo...
+13/04/2017 14:26:11.132  - Info - Mensagem recebida: 13-26-2017 14:26:11 1253 - 9aeb5bc5-4547-4ff2-ad34-1712b49b1f99
+13/04/2017 14:26:11.140  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:11.146  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:13.141  - Info - Recebendo...
+13/04/2017 14:26:13.147  - Info - Mensagem recebida: 13-26-2017 14:26:13 1417 - d8feb26d-41e6-4653-9b2e-2d21907d32f2
+13/04/2017 14:26:13.152  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:13.158  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:15.154  - Info - Recebendo...
+13/04/2017 14:26:15.163  - Info - Mensagem recebida: 13-26-2017 14:26:15 1542 - 78278f97-c0fb-4479-bbae-014ef8b0caa0
+13/04/2017 14:26:15.168  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:15.178  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:17.169  - Info - Recebendo...
+13/04/2017 14:26:17.177  - Info - Mensagem recebida: 13-26-2017 14:26:17 1696 - e3bbfdd1-3b43-47e1-a1e1-678a8b96d438
+13/04/2017 14:26:17.182  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:17.188  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:19.183  - Info - Recebendo...
+13/04/2017 14:26:19.189  - Info - Mensagem recebida: 13-26-2017 14:26:19 1834 - c5b08456-8368-485c-a40a-f52fb5ce1b1a
+13/04/2017 14:26:19.194  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:19.195  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:21.196  - Info - Recebendo...
+13/04/2017 14:26:21.201  - Info - Mensagem recebida: 13-26-2017 14:26:21 1962 - 81ef6da9-6319-43df-8ae2-535314cad363
+13/04/2017 14:26:21.206  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:21.211  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:23.208  - Info - Recebendo...
+13/04/2017 14:26:23.215  - Info - Mensagem recebida: 13-26-2017 14:26:23 2080 - 65fb45ad-8e69-4920-8c63-5b4c745fe135
+13/04/2017 14:26:23.220  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:23.226  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:25.220  - Info - Recebendo...
+13/04/2017 14:26:25.225  - Info - Mensagem recebida: 13-26-2017 14:26:25 2209 - c7ee96a2-8764-4e61-a562-e538e742d218
+13/04/2017 14:26:25.233  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:25.245  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:27.236  - Info - Recebendo...
+13/04/2017 14:26:27.241  - Info - Mensagem recebida: 13-26-2017 14:26:27 2361 - 4905a81f-c8db-4eae-9355-ee5b6a9a9bb4
+13/04/2017 14:26:27.247  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:27.255  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:29.248  - Info - Recebendo...
+13/04/2017 14:26:29.256  - Info - Mensagem recebida: 13-26-2017 14:26:29 2485 - 9611b68a-f460-42ad-860b-9b016302ad8d
+13/04/2017 14:26:29.262  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:29.268  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:31.264  - Info - Recebendo...
+13/04/2017 14:26:31.272  - Info - Mensagem recebida: 13-26-2017 14:26:31 2644 - be3a66c5-1cbb-47f6-b0b0-e3ecee647ed9
+13/04/2017 14:26:31.277  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:31.282  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:33.278  - Info - Recebendo...
+13/04/2017 14:26:33.285  - Info - Mensagem recebida: 13-26-2017 14:26:33 2787 - 996abe95-b180-4d2d-a0fc-833b9c93a927
+13/04/2017 14:26:33.296  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:33.316  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:35.307  - Info - Recebendo...
+13/04/2017 14:26:35.312  - Info - Mensagem recebida: 13-26-2017 14:26:35 3070 - 749b3caf-0bd2-4d56-b98b-84f9542738b5
+13/04/2017 14:26:35.317  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:35.323  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:37.318  - Info - Recebendo...
+13/04/2017 14:26:37.325  - Info - Mensagem recebida: 13-26-2017 14:26:37 3188 - b22dd7c3-253f-4d32-8fcf-8db1028915ca
+13/04/2017 14:26:37.327  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:37.333  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:39.329  - Info - Recebendo...
+13/04/2017 14:26:39.336  - Info - Mensagem recebida: 13-26-2017 14:26:39 3291 - 734ae4dd-c4ce-4364-a967-a2186344f625
+13/04/2017 14:26:39.345  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:39.355  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:41.347  - Info - Recebendo...
+13/04/2017 14:26:41.352  - Info - Mensagem recebida: 13-26-2017 14:26:41 3473 - d74e7683-a9e8-410a-806c-88a7a08c3d63
+13/04/2017 14:26:41.357  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:41.363  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:43.358  - Info - Recebendo...
+13/04/2017 14:26:43.365  - Info - Mensagem recebida: 13-26-2017 14:26:43 3582 - 5c13e817-1bb6-4dfa-acba-0128e61b8941
+13/04/2017 14:26:43.372  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:43.382  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:45.374  - Info - Recebendo...
+13/04/2017 14:26:45.380  - Info - Mensagem recebida: 13-26-2017 14:26:45 3749 - a1924c68-3558-4589-b24f-dc235ff1e9cd
+13/04/2017 14:26:45.385  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:45.390  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:47.388  - Info - Recebendo...
+13/04/2017 14:26:47.393  - Info - Mensagem recebida: 13-26-2017 14:26:47 3883 - 1fe7cb94-ce18-4fc2-97b1-86eb6b98be8f
+13/04/2017 14:26:47.401  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:47.412  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:49.404  - Info - Recebendo...
+13/04/2017 14:26:49.411  - Info - Mensagem recebida: 13-26-2017 14:26:49 4049 - e549caea-a9fd-42a8-9e76-9d9bdaacb82a
+13/04/2017 14:26:49.417  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:49.418  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:51.422  - Info - Recebendo...
+13/04/2017 14:26:51.428  - Info - Mensagem recebida: 13-26-2017 14:26:51 4224 - ba888d5a-e9fc-43ab-adbf-d7f31dbb0376
+13/04/2017 14:26:51.434  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:51.443  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:53.436  - Info - Recebendo...
+13/04/2017 14:26:53.442  - Info - Mensagem recebida: 13-26-2017 14:26:53 4361 - c97a42f2-e810-42a6-a767-d9451321cd0e
+13/04/2017 14:26:53.447  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:53.454  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:55.449  - Info - Recebendo...
+13/04/2017 14:26:55.456  - Info - Mensagem recebida: 13-26-2017 14:26:55 4494 - b4561357-9233-4977-b60f-34a2af055d01
+13/04/2017 14:26:55.461  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:55.468  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:57.463  - Info - Recebendo...
+13/04/2017 14:26:57.469  - Info - Mensagem recebida: 13-26-2017 14:26:57 4637 - 11d9941d-febb-42c2-806f-0e0d12a467df
+13/04/2017 14:26:57.474  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:57.478  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:26:59.476  - Info - Recebendo...
+13/04/2017 14:26:59.482  - Info - Mensagem recebida: 13-26-2017 14:26:59 4760 - 6fb98491-4f88-43b6-b507-4ee4e58cf87e
+13/04/2017 14:26:59.488  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:26:59.494  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:01.490  - Info - Recebendo...
+13/04/2017 14:27:01.496  - Info - Mensagem recebida: 13-27-2017 14:27:01 4900 - 444d1d77-6c8f-428d-a051-d52842a7768a
+13/04/2017 14:27:01.501  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:01.507  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:03.503  - Info - Recebendo...
+13/04/2017 14:27:03.509  - Info - Mensagem recebida: 13-27-2017 14:27:03 5033 - 9ac050e2-2a54-4a48-9d2a-122a44da372c
+13/04/2017 14:27:03.516  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:03.521  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:05.517  - Info - Recebendo...
+13/04/2017 14:27:05.523  - Info - Mensagem recebida: 13-27-2017 14:27:05 5179 - 650a2142-e176-494a-83a6-a5d228343a05
+13/04/2017 14:27:05.528  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:05.536  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:07.530  - Info - Recebendo...
+13/04/2017 14:27:07.538  - Info - Mensagem recebida: 13-27-2017 14:27:07 5308 - 433606de-f9e3-4aa6-9573-b089d38bd8b0
+13/04/2017 14:27:07.547  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:07.553  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:09.549  - Info - Recebendo...
+13/04/2017 14:27:09.556  - Info - Mensagem recebida: 13-27-2017 14:27:09 5498 - 7de1447c-0954-4c56-84c3-8a6296842630
+13/04/2017 14:27:09.563  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:09.565  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:11.565  - Info - Recebendo...
+13/04/2017 14:27:11.574  - Info - Mensagem recebida: 13-27-2017 14:27:11 5655 - 866307d1-03ec-428d-9438-af55c36f26f2
+13/04/2017 14:27:11.591  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:11.604  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:13.597  - Info - Recebendo...
+13/04/2017 14:27:13.603  - Info - Mensagem recebida: 13-27-2017 14:27:13 5976 - a459ec81-5ed8-49a7-b1b7-a49b80d1f85e
+13/04/2017 14:27:13.608  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:13.615  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:15.610  - Info - Recebendo...
+13/04/2017 14:27:15.619  - Info - Mensagem recebida: 13-27-2017 14:27:15 6102 - b206d437-f919-43db-b876-8f4260063cc9
+13/04/2017 14:27:15.626  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:15.635  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:17.628  - Info - Recebendo...
+13/04/2017 14:27:17.637  - Info - Mensagem recebida: 13-27-2017 14:27:17 6284 - eb7c543d-a702-4437-9ce3-2cef2c998f3d
+13/04/2017 14:27:17.648  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:17.655  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:19.650  - Info - Recebendo...
+13/04/2017 14:27:19.656  - Info - Mensagem recebida: 13-27-2017 14:27:19 6507 - 7f670734-8331-4cda-aa9d-ccb111eeaa4e
+13/04/2017 14:27:19.664  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:19.674  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:21.670  - Info - Recebendo...
+13/04/2017 14:27:21.678  - Info - Mensagem recebida: 13-27-2017 14:27:21 6705 - 6efee82a-c08c-48f9-bfef-1b305720d4b4
+13/04/2017 14:27:21.683  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:21.693  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:23.687  - Info - Recebendo...
+13/04/2017 14:27:23.706  - Info - Mensagem recebida: 13-27-2017 14:27:23 6878 - efff6d3e-65f0-4a31-b470-6ece133f11ab
+13/04/2017 14:27:23.722  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:23.731  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:25.729  - Info - Recebendo...
+13/04/2017 14:27:25.738  - Info - Mensagem recebida: 13-27-2017 14:27:25 7294 - 908cd93f-26cf-4e61-9886-fb75ae54a592
+13/04/2017 14:27:25.745  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:25.752  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:27.747  - Info - Recebendo...
+13/04/2017 14:27:27.753  - Info - Mensagem recebida: 13-27-2017 14:27:27 7477 - f07aaae9-c098-4fd9-9ee3-841ed3bada68
+13/04/2017 14:27:27.759  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:27.764  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:29.761  - Info - Recebendo...
+13/04/2017 14:27:29.766  - Info - Mensagem recebida: 13-27-2017 14:27:29 7616 - 4e3e15f7-fe9c-4be1-b5a5-8b9c9534892e
+13/04/2017 14:27:29.771  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:29.777  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:31.773  - Info - Recebendo...
+13/04/2017 14:27:31.780  - Info - Mensagem recebida: 13-27-2017 14:27:31 7735 - 13b4843a-534f-44bd-ae09-cc24487a0db4
+13/04/2017 14:27:31.786  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:31.792  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:33.788  - Info - Recebendo...
+13/04/2017 14:27:33.795  - Info - Mensagem recebida: 13-27-2017 14:27:33 7883 - dc5f47ad-739f-480c-a009-a16ee19b72f1
+13/04/2017 14:27:33.802  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:33.813  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:35.804  - Info - Recebendo...
+13/04/2017 14:27:35.817  - Info - Mensagem recebida: 13-27-2017 14:27:35 8048 - e7f8833d-4a30-48cd-beac-d9998e95feee
+13/04/2017 14:27:35.823  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:35.834  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:37.828  - Info - Recebendo...
+13/04/2017 14:27:37.834  - Info - Mensagem recebida: 13-27-2017 14:27:37 8288 - 397feae3-97c0-4b62-a685-bba6056d503d
+13/04/2017 14:27:37.840  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:37.849  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:39.844  - Info - Recebendo...
+13/04/2017 14:27:39.850  - Info - Mensagem recebida: 13-27-2017 14:27:39 8443 - 3fc72349-911c-4fe4-a160-de50ef6a5bec
+13/04/2017 14:27:39.855  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:39.863  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:41.858  - Info - Recebendo...
+13/04/2017 14:27:41.865  - Info - Mensagem recebida: 13-27-2017 14:27:41 8589 - dba013ae-a12b-4d82-9eee-b0d28f7eb878
+13/04/2017 14:27:41.871  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:41.881  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:43.873  - Info - Recebendo...
+13/04/2017 14:27:43.880  - Info - Mensagem recebida: 13-27-2017 14:27:43 8733 - f707e9bd-a42b-45ab-b58d-8331c1a583f4
+13/04/2017 14:27:43.887  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:43.893  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:45.889  - Info - Recebendo...
+13/04/2017 14:27:45.894  - Info - Mensagem recebida: 13-27-2017 14:27:45 8895 - b80d0bff-5292-42ed-8a55-3cc1d5175768
+13/04/2017 14:27:45.902  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:45.911  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:47.904  - Info - Recebendo...
+13/04/2017 14:27:47.910  - Info - Mensagem recebida: 13-27-2017 14:27:47 9048 - 099f2a07-92b1-40a4-8102-53ad53fd1b48
+13/04/2017 14:27:47.915  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:47.921  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:49.918  - Info - Recebendo...
+13/04/2017 14:27:49.925  - Info - Mensagem recebida: 13-27-2017 14:27:49 9180 - 1b5732cb-b12b-4134-88d4-abc1d4367d64
+13/04/2017 14:27:49.932  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:49.934  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:51.934  - Info - Recebendo...
+13/04/2017 14:27:51.940  - Info - Mensagem recebida: 13-27-2017 14:27:51 9342 - 0ee10714-9fbb-4b6c-ba24-c836435f04dd
+13/04/2017 14:27:51.945  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:51.951  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:53.947  - Info - Recebendo...
+13/04/2017 14:27:53.956  - Info - Mensagem recebida: 13-27-2017 14:27:53 9472 - 72d94045-ea59-416b-9817-ee4eb6205f77
+13/04/2017 14:27:53.962  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:53.969  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:55.964  - Info - Recebendo...
+13/04/2017 14:27:55.970  - Info - Mensagem recebida: 13-27-2017 14:27:55 9648 - d7e317d8-2872-4ada-a46b-e6e8c2ca033b
+13/04/2017 14:27:55.977  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:55.985  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:57.980  - Info - Recebendo...
+13/04/2017 14:27:57.988  - Info - Mensagem recebida: 13-27-2017 14:27:57 9800 - ab542cca-57d4-4396-a73b-3dbae7293ef2
+13/04/2017 14:27:57.996  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:27:58.009  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:27:59.999  - Info - Recebendo...
+13/04/2017 14:28:00.005  - Info - Mensagem recebida: 13-27-2017 14:27:59 9993 - 4b9b0225-967e-4009-8fd1-fa5b1cf735a8
+13/04/2017 14:28:00.012  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:00.041  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:02.013  - Info - Recebendo...
+13/04/2017 14:28:02.022  - Info - Mensagem recebida: 13-28-2017 14:28:02 0137 - 332a9f4b-a649-4cc8-a837-388ae734ae4f
+13/04/2017 14:28:02.028  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:02.033  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:04.030  - Info - Recebendo...
+13/04/2017 14:28:04.035  - Info - Mensagem recebida: 13-28-2017 14:28:04 0300 - 17a272ef-d2fd-4537-a42b-b4b1e7675835
+13/04/2017 14:28:04.040  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:04.047  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:06.042  - Info - Recebendo...
+13/04/2017 14:28:06.048  - Info - Mensagem recebida: 13-28-2017 14:28:06 0420 - 5a8f6837-97c8-4d26-9465-adfc07ce7349
+13/04/2017 14:28:06.053  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:06.059  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:08.055  - Info - Recebendo...
+13/04/2017 14:28:08.069  - Info - Mensagem recebida: 13-28-2017 14:28:08 0552 - 1ad36d38-296d-4cb5-8969-9d1f1de1c816
+13/04/2017 14:28:08.075  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:08.087  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:10.077  - Info - Recebendo...
+13/04/2017 14:28:10.084  - Info - Mensagem recebida: 13-28-2017 14:28:10 0779 - 11ebe62c-be6b-417d-804f-c503388fbafb
+13/04/2017 14:28:10.094  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:10.096  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:12.097  - Info - Recebendo...
+13/04/2017 14:28:12.109  - Info - Mensagem recebida: 13-28-2017 14:28:12 0971 - 8cdfd0aa-ba60-4f6c-bc5d-56a2f55edcc7
+13/04/2017 14:28:12.119  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:12.131  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:14.121  - Info - Recebendo...
+13/04/2017 14:28:14.126  - Info - Mensagem recebida: 13-28-2017 14:28:14 1212 - 09293d15-8286-4ce4-85e2-44db446e2c2c
+13/04/2017 14:28:14.132  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:14.138  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:16.133  - Info - Recebendo...
+13/04/2017 14:28:16.141  - Info - Mensagem recebida: 13-28-2017 14:28:16 1333 - 0a672e31-cb8d-469e-88ff-03818bd7d8a8
+13/04/2017 14:28:16.146  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:16.155  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:18.148  - Info - Recebendo...
+13/04/2017 14:28:18.176  - Info - Mensagem recebida: 13-28-2017 14:28:18 1487 - d767f065-2c0c-44a0-b905-9d75fe8af721
+13/04/2017 14:28:18.185  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:18.194  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:20.189  - Info - Recebendo...
+13/04/2017 14:28:20.201  - Info - Mensagem recebida: 13-28-2017 14:28:20 1890 - 8397b5f2-3a90-487c-ac7d-16051e7bd65f
+13/04/2017 14:28:20.208  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:20.208  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:22.210  - Info - Recebendo...
+13/04/2017 14:28:22.224  - Info - Mensagem recebida: 13-28-2017 14:28:22 2103 - 6755309e-c5e2-4d6f-90b9-070507ebcf22
+13/04/2017 14:28:22.230  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:22.246  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:24.233  - Info - Recebendo...
+13/04/2017 14:28:24.238  - Info - Mensagem recebida: 13-28-2017 14:28:24 2336 - 4dcb7728-a0bf-4db6-9bab-e7a1ff7fd56c
+13/04/2017 14:28:24.244  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:24.249  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:26.246  - Info - Recebendo...
+13/04/2017 14:28:26.258  - Info - Mensagem recebida: 13-28-2017 14:28:26 2469 - ae9024e8-da8a-4a8a-8e2f-a07386568c36
+13/04/2017 14:28:26.267  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:26.274  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:28.269  - Info - Recebendo...
+13/04/2017 14:28:28.277  - Info - Mensagem recebida: 13-28-2017 14:28:28 2699 - 67e839b5-fc4e-42c4-beed-0ea341784401
+13/04/2017 14:28:28.283  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:28.288  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:30.284  - Info - Recebendo...
+13/04/2017 14:28:30.291  - Info - Mensagem recebida: 13-28-2017 14:28:30 2849 - 70e454d8-3098-457f-b0a7-e5c62b468bc2
+13/04/2017 14:28:30.298  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:30.307  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:32.302  - Info - Recebendo...
+13/04/2017 14:28:32.309  - Info - Mensagem recebida: 13-28-2017 14:28:32 3020 - 6ffb6b16-0b38-4a76-8902-68a6caae6425
+13/04/2017 14:28:32.317  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:32.325  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:34.320  - Info - Recebendo...
+13/04/2017 14:28:34.325  - Info - Mensagem recebida: 13-28-2017 14:28:34 3203 - 769045f4-920d-469e-adaa-ddf44518722c
+13/04/2017 14:28:34.331  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:34.336  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:36.332  - Info - Recebendo...
+13/04/2017 14:28:36.338  - Info - Mensagem recebida: 13-28-2017 14:28:36 3326 - 672702b7-c2f6-4e23-83a6-e87d81a9804d
+13/04/2017 14:28:36.343  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:36.353  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:38.345  - Info - Recebendo...
+13/04/2017 14:28:38.351  - Info - Mensagem recebida: 13-28-2017 14:28:38 3457 - ae9403e8-b61c-46d5-a039-820f4ada90e4
+13/04/2017 14:28:38.358  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:38.358  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:40.360  - Info - Recebendo...
+13/04/2017 14:28:40.386  - Info - Mensagem recebida: 13-28-2017 14:28:40 3609 - 098e275e-5783-44bb-8251-6e6da96908a6
+13/04/2017 14:28:40.396  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:40.410  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:42.400  - Info - Recebendo...
+13/04/2017 14:28:42.406  - Info - Mensagem recebida: 13-28-2017 14:28:42 4005 - e90d0ad9-4819-48b2-a58a-591b523263be
+13/04/2017 14:28:42.411  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:42.416  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:44.413  - Info - Recebendo...
+13/04/2017 14:28:44.418  - Info - Mensagem recebida: 13-28-2017 14:28:44 4136 - e67896c6-f96b-4138-87e0-6a6f84d9b69b
+13/04/2017 14:28:44.424  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:44.430  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:46.426  - Info - Recebendo...
+13/04/2017 14:28:46.432  - Info - Mensagem recebida: 13-28-2017 14:28:46 4269 - 4c67c09c-2a7c-49dc-9f2a-2473c6fca9b3
+13/04/2017 14:28:46.437  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:46.438  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:48.440  - Info - Recebendo...
+13/04/2017 14:28:48.445  - Info - Mensagem recebida: 13-28-2017 14:28:48 4409 - a2d28cf5-3afb-4e23-90b5-a65a2aa1f3f8
+13/04/2017 14:28:48.449  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:48.459  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:50.454  - Info - Recebendo...
+13/04/2017 14:28:50.463  - Info - Mensagem recebida: 13-28-2017 14:28:50 4530 - 5e03e4ad-f5c2-4302-b251-bd84e7ddeb21
+13/04/2017 14:28:50.468  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:50.475  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:52.469  - Info - Recebendo...
+13/04/2017 14:28:52.474  - Info - Mensagem recebida: 13-28-2017 14:28:52 4693 - e39251f2-e728-4c80-a03f-85d6bb27668d
+13/04/2017 14:28:52.479  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:52.484  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:54.481  - Info - Recebendo...
+13/04/2017 14:28:54.488  - Info - Mensagem recebida: 13-28-2017 14:28:54 4816 - 39531de6-f51a-4d9c-a9c3-6b25d39d3873
+13/04/2017 14:28:54.497  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:54.504  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:56.498  - Info - Recebendo...
+13/04/2017 14:28:56.503  - Info - Mensagem recebida: 13-28-2017 14:28:56 4987 - 7716272d-cfa9-4368-8358-9a9573a70c17
+13/04/2017 14:28:56.508  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:56.514  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:28:58.510  - Info - Recebendo...
+13/04/2017 14:28:58.515  - Info - Mensagem recebida: 13-28-2017 14:28:58 5109 - 387f55d1-15d4-4a7e-bd63-517e2ad0494a
+13/04/2017 14:28:58.520  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:28:58.525  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:00.522  - Info - Recebendo...
+13/04/2017 14:29:00.531  - Info - Mensagem recebida: 13-29-2017 14:29:00 5225 - a4c02a10-6d60-4bb2-a696-f529b8eaea9c
+13/04/2017 14:29:00.538  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:00.545  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:02.540  - Info - Recebendo...
+13/04/2017 14:29:02.546  - Info - Mensagem recebida: 13-29-2017 14:29:02 5407 - c281720d-711f-4b6e-bae2-601864073b57
+13/04/2017 14:29:02.552  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:02.563  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:04.554  - Info - Recebendo...
+13/04/2017 14:29:04.559  - Info - Mensagem recebida: 13-29-2017 14:29:04 5547 - 2f25a09b-d0de-4f41-a394-1646fa582cdd
+13/04/2017 14:29:04.565  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:04.567  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:06.567  - Info - Recebendo...
+13/04/2017 14:29:06.573  - Info - Mensagem recebida: 13-29-2017 14:29:06 5678 - 1a766cdb-702c-40af-ac17-85f0b0f76f1b
+13/04/2017 14:29:06.578  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:06.578  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:08.581  - Info - Recebendo...
+13/04/2017 14:29:08.587  - Info - Mensagem recebida: 13-29-2017 14:29:08 5810 - b312203d-9c08-4a59-b578-cb4d86bd1ec9
+13/04/2017 14:29:08.593  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:08.599  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:10.595  - Info - Recebendo...
+13/04/2017 14:29:10.605  - Info - Mensagem recebida: 13-29-2017 14:29:10 5951 - ed425f42-1ddc-4d06-a635-3ba87323ee8f
+13/04/2017 14:29:10.612  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:10.621  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:12.614  - Info - Recebendo...
+13/04/2017 14:29:12.623  - Info - Mensagem recebida: 13-29-2017 14:29:12 6145 - 8f403f9d-0aef-495a-8f03-cb115ae1f261
+13/04/2017 14:29:12.629  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:12.638  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:14.632  - Info - Recebendo...
+13/04/2017 14:29:14.643  - Info - Mensagem recebida: 13-29-2017 14:29:14 6310 - 6ac61b81-5621-4c25-91a4-ac6da99c13f7
+13/04/2017 14:29:14.649  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:14.655  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:16.650  - Info - Recebendo...
+13/04/2017 14:29:16.659  - Info - Mensagem recebida: 13-29-2017 14:29:16 6504 - 7b3d3769-512b-4084-9aad-3121114e19d3
+13/04/2017 14:29:16.664  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:16.670  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:18.666  - Info - Recebendo...
+13/04/2017 14:29:18.673  - Info - Mensagem recebida: 13-29-2017 14:29:18 6662 - 399c42bb-929f-430e-9d4f-8c0eec2d4dcb
+13/04/2017 14:29:18.679  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:18.685  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:20.681  - Info - Recebendo...
+13/04/2017 14:29:20.687  - Info - Mensagem recebida: 13-29-2017 14:29:20 6819 - 5fe482ce-6632-4460-822f-bb001055b544
+13/04/2017 14:29:20.695  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:20.697  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:22.697  - Info - Recebendo...
+13/04/2017 14:29:22.703  - Info - Mensagem recebida: 13-29-2017 14:29:22 6971 - 48d278c6-1aac-45ab-88e8-bec6c8b8f7f7
+13/04/2017 14:29:22.709  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:22.715  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:24.711  - Info - Recebendo...
+13/04/2017 14:29:24.716  - Info - Mensagem recebida: 13-29-2017 14:29:24 7111 - f815ccbd-a316-488d-8dc6-e31389229d13
+13/04/2017 14:29:24.721  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:24.727  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:26.723  - Info - Recebendo...
+13/04/2017 14:29:26.731  - Info - Mensagem recebida: 13-29-2017 14:29:26 7232 - 110cb1a4-f2cd-4aa7-a825-aaa7a63f591a
+13/04/2017 14:29:26.736  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:26.741  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:28.737  - Info - Recebendo...
+13/04/2017 14:29:28.743  - Info - Mensagem recebida: 13-29-2017 14:29:28 7373 - f34866d9-e0a3-4dd5-a48d-15034f5de3b3
+13/04/2017 14:29:28.751  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:28.758  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:30.753  - Info - Recebendo...
+13/04/2017 14:29:30.758  - Info - Mensagem recebida: 13-29-2017 14:29:30 7535 - 0cdf80ae-387e-4cd8-83d0-afb8a560ad7c
+13/04/2017 14:29:30.763  - Info - Cliente notificado sobre recebimento.
+13/04/2017 14:29:30.764  - Info - Conexão aceita de: 192.168.1.44:57640
+13/04/2017 14:29:31.263  - Info - Recebendo...

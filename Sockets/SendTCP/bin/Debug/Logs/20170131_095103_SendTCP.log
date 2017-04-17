@@ -1,0 +1,2 @@
+31/01/2017 09:50:47.397  - Info - Iniciando Log
+31/01/2017 09:50:47.429  - Erro - Exceção do tipo 'System.OutOfMemoryException' foi acionada. -    em SendTCP.Program.Main(String[] args) na C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\SignalR\ObserverSignalR\SendTCP\Program.cs:linha 39 >  - 

@@ -1,0 +1,9 @@
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\FTPClient\bin\Debug\FTPClient.exe.config
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\FTPClient\bin\Debug\FTPClient.exe
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\FTPClient\obj\Debug\FTPClient.exe
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\FTPClient\obj\Debug\FTPClient.pdb
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\FTPClient\obj\Debug\FTPClient.csprojResolveAssemblyReference.cache
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Sockets\FTPClient\bin\Debug\FTPClient.exe.config
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Sockets\FTPClient\obj\Debug\FTPClient.exe
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Sockets\FTPClient\obj\Debug\FTPClient.pdb

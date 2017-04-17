@@ -1,0 +1,9 @@
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Sockets\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Sockets\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Sockets\TCPClient\obj\Debug\TCPClient.pdb

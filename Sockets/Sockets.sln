@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPClient", "FTPClient\FTPClient.csproj", "{A05F3B50-AC76-4590-8247-E53AD7BB5AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{041F8AC5-0696-453A-BAD5-D50E63177DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "TCPServer\TCPServer.csproj", "{BC598844-3B0F-4282-9704-4FAB337F9680}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TCP", "TCP", "{14F0293C-08D2-446A-BAF6-E4ECF927DAF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{3883BFD5-B1B8-4EB6-BD30-E41661E54E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendTCP", "SendTCP\SendTCP.csproj", "{45A67B11-5BDF-4755-9EC7-96FF15E72883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenTCP", "ListenTCP\ListenTCP.csproj", "{F739E1FA-E4C0-414D-B92B-31990E4AE63A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util", "..\SolucaoUtil\Util\Util.csproj", "{F1F771FD-57BD-41DD-97AA-36823C190430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05F3B50-AC76-4590-8247-E53AD7BB5AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05F3B50-AC76-4590-8247-E53AD7BB5AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05F3B50-AC76-4590-8247-E53AD7BB5AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05F3B50-AC76-4590-8247-E53AD7BB5AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041F8AC5-0696-453A-BAD5-D50E63177DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041F8AC5-0696-453A-BAD5-D50E63177DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041F8AC5-0696-453A-BAD5-D50E63177DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041F8AC5-0696-453A-BAD5-D50E63177DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC598844-3B0F-4282-9704-4FAB337F9680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC598844-3B0F-4282-9704-4FAB337F9680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC598844-3B0F-4282-9704-4FAB337F9680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC598844-3B0F-4282-9704-4FAB337F9680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A67B11-5BDF-4755-9EC7-96FF15E72883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A67B11-5BDF-4755-9EC7-96FF15E72883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A67B11-5BDF-4755-9EC7-96FF15E72883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A67B11-5BDF-4755-9EC7-96FF15E72883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F739E1FA-E4C0-414D-B92B-31990E4AE63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F739E1FA-E4C0-414D-B92B-31990E4AE63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F739E1FA-E4C0-414D-B92B-31990E4AE63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F739E1FA-E4C0-414D-B92B-31990E4AE63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F771FD-57BD-41DD-97AA-36823C190430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F771FD-57BD-41DD-97AA-36823C190430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F771FD-57BD-41DD-97AA-36823C190430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F771FD-57BD-41DD-97AA-36823C190430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{041F8AC5-0696-453A-BAD5-D50E63177DD8} = {14F0293C-08D2-446A-BAF6-E4ECF927DAF6}
+		{BC598844-3B0F-4282-9704-4FAB337F9680} = {14F0293C-08D2-446A-BAF6-E4ECF927DAF6}
+		{3883BFD5-B1B8-4EB6-BD30-E41661E54E33} = {14F0293C-08D2-446A-BAF6-E4ECF927DAF6}
+		{45A67B11-5BDF-4755-9EC7-96FF15E72883} = {3883BFD5-B1B8-4EB6-BD30-E41661E54E33}
+		{F739E1FA-E4C0-414D-B92B-31990E4AE63A} = {3883BFD5-B1B8-4EB6-BD30-E41661E54E33}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://racprojects.visualstudio.com/
+		SccProjectUniqueName0 = SendTCP\\SendTCP.csproj
+		SccProjectTopLevelParentUniqueName0 = Sockets.sln
+		SccProjectName0 = SendTCP
+		SccAuxPath0 = https://racprojects.visualstudio.com
+		SccLocalPath0 = SendTCP
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = ListenTCP\\ListenTCP.csproj
+		SccProjectTopLevelParentUniqueName1 = Sockets.sln
+		SccProjectName1 = ListenTCP
+		SccAuxPath1 = https://racprojects.visualstudio.com
+		SccLocalPath1 = ListenTCP
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = ..\\SolucaoUtil\\Util\\Util.csproj
+		SccProjectName2 = ../SolucaoUtil/Util
+		SccAuxPath2 = https://racprojects.visualstudio.com
+		SccLocalPath2 = ..\\SolucaoUtil\\Util
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

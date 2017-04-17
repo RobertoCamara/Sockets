@@ -1,0 +1,4 @@
+30/01/2017 14:44:34.496  - Info - Iniciando Log
+30/01/2017 14:44:34.503  - Info - Connecting.....
+30/01/2017 14:44:34.595  - Erro - Uma requisição de conexão foi feita em um soquete já conectado -    em System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   em SendTCP.Program.Main(String[] args) na C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\SignalR\ObserverSignalR\SendTCP\Program.cs:linha 29 >  - 

@@ -1,0 +1,4 @@
+31/01/2017 09:29:25.898  - Info - Iniciando Log
+31/01/2017 09:29:25.933  - Erro - Argumento especificado estava fora do intervalo de valores válidos.
+Nome do parâmetro: size -    em System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   em SendTCP.Program.Main(String[] args) na C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\SignalR\ObserverSignalR\SendTCP\Program.cs:linha 40 >  - 

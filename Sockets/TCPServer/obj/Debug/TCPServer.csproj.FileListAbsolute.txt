@@ -1,0 +1,8 @@
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Socket\SolucaoSocket\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Sockets\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Sockets\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\roberto.TRACKBUS\OneDrive\Minha pasta Samich\Estudos\Sockets\TCPServer\obj\Debug\TCPServer.pdb
