@@ -22,7 +22,7 @@ Console Application responsável por transmitir uma mensagem via TCP
 # TCP Server
 Console Application responsável por criar um servidor TCP
 
-### Windows Service - TCP
+# TCP - Windows Service
 - ListenTCP
   * Serviço Windows responsável por ouvir uma comunicação TCP.
 - Send/SendTCP
